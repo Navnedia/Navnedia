@@ -9,6 +9,9 @@
 	<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
 </p>
 
+
+<h1 align="center">About Me</h1>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
