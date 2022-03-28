@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h1>
+<h1 align="center">Welcome to My GitHub Profile <img src="https://github.com/Navnedia/Navnedia/blob/1da032ffcadf1ec29019d822b7c71500d97ff29f/wave.gif" width="30px"></h1>
 <p align="center">
 	<img
 		src="https://github-readme-stats.vercel.app/api?username=Navnedia&theme=algolia&show_icons=true&count_private=true&hide_border=true">
