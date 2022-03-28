@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 <p align="center">
 	<img
-		src="https://github-readme-stats.vercel.app/api?username=asportnoy&theme=algolia&show_icons=true&count_private=true&hide_border=false">
+		src="https://github-readme-stats.vercel.app/api?username=Navnedia&theme=algolia&show_icons=true&count_private=true&hide_border=false">
 </p>
 
 <p align="center">
