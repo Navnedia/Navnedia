@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile! <img src="https://github.com/Navnedia/Navnedia/blob/1da032ffcadf1ec29019d822b7c71500d97ff29f/wave.gif" width="30px"></h1>
 <p align="center">
-	<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Navnedia%20:)&width=800&height=150">
+	<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Navnedia%20:)&width=1024&height=150">
 </p>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true" width=421>
