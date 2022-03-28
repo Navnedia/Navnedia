@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 <p align="center">
 	<img
-		src="https://github-readme-stats.vercel.app/api?username=Navnedia&theme=algolia&show_icons=true&count_private=true&hide_border=false">
+		src="https://github-readme-stats.vercel.app/api?username=Navnedia&theme=algolia&show_icons=true&count_private=true&hide_border=true">
 </p>
 
 <p align="center">
 	<img
-		src="https://activity-graph.herokuapp.com/graph?username=Navnedia&bg_color=050F2C&color=00AEFF&line=2DDE98&point=FFFFFF&hide_border=false">
+		src="https://activity-graph.herokuapp.com/graph?username=Navnedia00710&theme=dracula&area=true&hide_border=true">
 </p>
 
 <p align="center">
