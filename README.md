@@ -6,7 +6,7 @@
 
 <p align="center">
 	<img
-		src="https://activity-graph.herokuapp.com/graph?username=Navnedia00710&theme=rouge&area=true&hide_border=true">
+		src="https://activity-graph.herokuapp.com/graph?username=Navnedia00710&color=f2e8e7&point=f2e8e7&line=913937&area_color=913937&bg_color=2b313d&area=true&hide_border=true">
 </p>
 
 <p align="center">
