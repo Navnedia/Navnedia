@@ -3,7 +3,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Navnedia&theme=algolia&show_icons=true&count_private=true&hide_border=true">
 </p>
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Navnedia&color=f2e8e7&point=f2e8e7&line=913937&area_color=913937&bg_color=2b313d&area=true&hide_border=true">
+	<img src="https://activity-graph.herokuapp.com/graph?username=Navnedia&color=f2e8e7&point=f2e8e7&line=913937&area_color=913937&bg_color=292a36&area=true&hide_border=true">
 </p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
