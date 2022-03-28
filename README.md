@@ -6,7 +6,7 @@
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Navnedia&color=f2e8e7&point=77b0ca&line=913937&area_color=913937&bg_color=292a36&area=true&hide_border=true">
 </p>
-<p align="center">
+<p align="right">
 	<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
 </p>
 
