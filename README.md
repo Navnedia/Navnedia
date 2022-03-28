@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=asportnoy&style=flat">
+	<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
 </p>
 
 - 🔭 I’m currently working on ...
