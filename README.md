@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to My GitHub Profile! <img src="https://github.com/Navnedia/Navnedia/blob/1da032ffcadf1ec29019d822b7c71500d97ff29f/wave.gif" width="30px"></h1>
-<img src="https://github.com/Navnedia/Navnedia/blob/main/123.png" alt="">
 <p align="center">
 	<img src="https://github.com/Navnedia/Navnedia/blob/main/123.png" alt="">
 	<br>
