@@ -10,6 +10,17 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 05 April 2022 - To: 12 April 2022
+
+Total Time: 1 hr 24 mins
+
+Java    1 hr 16 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀   90.18 %
+HTML    8 mins          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.82 %
+Other   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
