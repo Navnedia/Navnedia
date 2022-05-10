@@ -30,7 +30,7 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 	<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
 </p>
 
-<h1 align="center">About Me</h1>
+<h1 align="center">About Me (Coming Soon...)</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
