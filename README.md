@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile! <img src="https://github.com/Navnedia/Navnedia/blob/main/Assets/wave.gif" width="30px"></h1>
+<h1 align="center">Welcome to My GitHub Profile! <img src="https://github.com/Navnedia/Navnedia/blob/main/Assets/wave.gif" width="30px" height="30px"></h1>
 
 <div align="center">
 	<img src="https://github.com/Navnedia/Navnedia/blob/main/Assets/Navnedia_ASCII.png" alt="">
