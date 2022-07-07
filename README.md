@@ -39,7 +39,7 @@ Java         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-<h1 align="center">About Me (Coming Soon...)</h1>
+<!--<h1 align="center">About Me (Coming Soon...)</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
