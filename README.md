@@ -1,10 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile! <img src="https://github.com/Navnedia/Navnedia/blob/main/Assets/wave.gif" width="30px" height="30px"></h1>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Navnedia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=292A36&ring=913937&currStreakLabel=77B0CA&sideLabels=F2E8E7&sideNums=F2E8E7&currStreakNum=F2E8E7&stroke=F2E8E7)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align="center">
 	<img src="https://github.com/Navnedia/Navnedia/blob/main/Assets/Navnedia_Banner.png" alt=""> <!-- End Name Banner -->
 	<img src="https://github-readme-stats.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%"> <!-- End GitHub Stats -->
