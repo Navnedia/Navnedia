@@ -9,7 +9,7 @@
 
 
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Navnedia&color=f2e8e7&point=77b0ca&line=913937&area_color=913937&bg_color=292a36&area=true&hide_border=true">
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Navnedia&color=f2e8e7&point=77b0ca&line=913937&area_color=913937&bg_color=292a36&area=true&hide_border=true">
 </div> <!-- End Contributions Activity Graph -->
 
 <div align="center">
