@@ -26,8 +26,8 @@
 <h2 align="center">Past Week Language Stats</h2>
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
 Total Time: 7 hrs 25 mins
 
