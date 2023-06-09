@@ -23,7 +23,7 @@
 </div> <!-- End All Language Stats -->
 
 
-<h2 align="center">Past Week Language Stats</h2>
+<h2 align="center">WakaTime - Past Week Language Stats</h2>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -39,7 +39,7 @@ Makefile   4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-<!-- End Past Week Language Stats -->
+<!-- End WakaTime Past Week Language Stats -->
 
 <!--<h1 align="center">About Me (Coming Soon...)</h1>
 
