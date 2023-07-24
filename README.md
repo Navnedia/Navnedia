@@ -22,6 +22,11 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div> <!-- End All Language Stats -->
 
+<!-- <div align="center">
+	<h2>Language Stats</h2>
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=navnedia\&bg_color=292a36&title_color=913937&text_color=f2e8e7&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=12">
+</div> -->
+<!-- End Language Stats WakaTime (All Time) -->
 
 <h2 align="center">WakaTime - Past Week Language Stats</h2>
 <!--START_SECTION:waka-->
