@@ -30,15 +30,14 @@
 <!--<h2 align="center">WakaTime - Past Week Language Stats</h2>-->
 <!--START_SECTION:waka-->
 
-<!--```txt
+```txt
 From: 23 August 2025 - To: 30 August 2025
 
 Total Time: 22 mins
 
 Java   12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.01 %
 HTML   10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.99 %
-```-->
-
+```
 
 <!--END_SECTION:waka-->
 <!-- End WakaTime Past Week Language Stats -->
