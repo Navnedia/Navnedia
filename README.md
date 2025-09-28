@@ -3,6 +3,10 @@
 <!-- ![Name Banner](https://github.com/Navnedia/Navnedia/blob/main/Assets/Navnedia_Banner.png) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red)
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aidenv/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aiden.vand)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/579480650470522910)
+
 Software engineer by trade, true crime lover, occasional grass toucher, command-line wizard, and late-night tinkerer.
 
 <!--
@@ -11,11 +15,11 @@ Software engineer by trade, true crime lover, occasional grass toucher, command-
 </div> --> <!-- End Contributions Activity Graph -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,nodejs,react,cs,dotnet,express,django,swift,git,docker,bash,linux,mongodb,postgres,bootstrap,aws,azure,cloudflare,html,css,md,github,postman,vscode,githubactions,gradle,idea,pycharm,scala,rust,sklearn,selenium,windows,apple&perline=12)](https://aidenv.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,nodejs,react,cs,dotnet,express,django,swift,git,docker,bash,linux,mongodb,postgres,bootstrap,aws,azure,cloudflare,html,css,md,github,postman,vscode,githubactions,gradle,idea,pycharm,scala,rust,sklearn,selenium,windows,apple&perline=11)](https://aidenv.dev)
 
 
 <div align="center">
-	<a hred="https://aidenv.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,scala,rust,bash,md,nodejs,react,dotnet,express,django,bootstrap,sklearn,selenium,mongodb,postgres,git,github,githubactions,docker,postman,gradle,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare,html,css&perline=12" /></a>
+	<a hred="https://aidenv.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,express,django,bootstrap,sklearn,mongodb,postgres,git,github,githubactions,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare,html,css&perline=11" /></a>
 </div> <!-- End Profile Views -->
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aidenv/)
