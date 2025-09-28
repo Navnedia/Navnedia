@@ -14,7 +14,7 @@ Software engineer by trade, true crime lover, occasional grass toucher, command-
 -->
 
 <div align="center">
-  <a href="https://aidenv.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,express,django,bootstrap,sklearn,mongodb,postgres,git,github,githubactions,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare,html,css&perline=11" />
   </a>
 </div>
