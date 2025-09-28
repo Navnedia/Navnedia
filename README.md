@@ -1,7 +1,7 @@
 # Hey, I'm Aiden <img src="https://github.com/Navnedia/Navnedia/blob/main/Assets/wave.gif" width="30px" height="30px"></h1>
 
 <!-- ![Name Banner](https://github.com/Navnedia/Navnedia/blob/main/Assets/Navnedia_Banner.png) -->
-![Profile Views](https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red)  -->
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aidenv/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aiden.vand)
