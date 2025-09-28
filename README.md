@@ -9,8 +9,9 @@
 
 Software engineer by trade, true crime lover, occasional grass toucher, command-line wizard, and late-night tinkerer.
 
-
+<!--
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,nodejs,react,cs,dotnet,express,django,swift,git,docker,bash,linux,mongodb,postgres,bootstrap,aws,azure,cloudflare,html,css,md,github,postman,vscode,githubactions,gradle,idea,pycharm,scala,rust,sklearn,selenium,windows,apple&perline=11)](https://aidenv.dev)
+-->
 
 <div align="center">
   <a href="https://aidenv.dev">
@@ -18,10 +19,11 @@ Software engineer by trade, true crime lover, occasional grass toucher, command-
   </a>
 </div>
 
+<!--
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aidenv/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aiden.vand)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/579480650470522910)
-
+-->
 
 <details open>
   <summary><h1>Github Stats ⚡</h1></summary>
