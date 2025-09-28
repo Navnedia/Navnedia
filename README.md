@@ -9,22 +9,35 @@
 
 Software engineer by trade, true crime lover, occasional grass toucher, command-line wizard, and late-night tinkerer.
 
-<!--
-<div align="center">
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Navnedia&color=f2e8e7&point=77b0ca&line=913937&area_color=913937&bg_color=292a36&area=true&hide_border=true">
-</div> --> <!-- End Contributions Activity Graph -->
-
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,nodejs,react,cs,dotnet,express,django,swift,git,docker,bash,linux,mongodb,postgres,bootstrap,aws,azure,cloudflare,html,css,md,github,postman,vscode,githubactions,gradle,idea,pycharm,scala,rust,sklearn,selenium,windows,apple&perline=11)](https://aidenv.dev)
 
-
 <div align="center">
-	<a hred="https://aidenv.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,express,django,bootstrap,sklearn,mongodb,postgres,git,github,githubactions,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare,html,css&perline=11" /></a>
-</div> <!-- End Profile Views -->
+  <a href="https://aidenv.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,express,django,bootstrap,sklearn,mongodb,postgres,git,github,githubactions,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare,html,css&perline=11" />
+  </a>
+</div>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aidenv/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aiden.vand)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/579480650470522910)
+
+
+<details open>
+  <summary><h1>Github Stats ⚡</h1></summary>
+  <div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%"> <!-- End GitHub Stats -->
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navnedia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=292A36&ring=913937&currStreakLabel=77B0CA&sideLabels=F2E8E7&sideNums=F2E8E7&currStreakNum=F2E8E7&stroke=F2E8E7" width="47.5%"> <!-- End Streak Stats -->
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+	</div>
+	<div align="center">
+		<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
+	</div> <!-- End Profile Views -->
+</details>
+
+
+
+
 
 <!-- <div align="center">
 	<h2>Language Stats</h2>
@@ -50,16 +63,3 @@ Software engineer by trade, true crime lover, occasional grass toucher, command-
 - ⚡ Fun fact: ...
 -->
 <!-- End About Me Section -->
-
-
-<details open>
-  <summary><h1>Github Stats ⚡</h1></summary>
-  <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%"> <!-- End GitHub Stats -->
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navnedia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=292A36&ring=913937&currStreakLabel=77B0CA&sideLabels=F2E8E7&sideNums=F2E8E7&currStreakNum=F2E8E7&stroke=F2E8E7" width="47.5%"> <!-- End Streak Stats -->
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-	</div>
-	<div align="center">
-		<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
-	</div> <!-- End Profile Views -->
-</details>
