@@ -7,27 +7,27 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aiden.vand)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/579480650470522910)
 
-Software engineer by trade, true crime lover, occasional grass toucher, command-line wizard, and late-night tinkerer.
+I'm a Software engineer by trade, true crime lover, occasional grass toucher, command-line wizard, and late-night tinkerer.
+
 <!--
+CS Grad DePaul
 Full-stack, backend feel most at home. I love building... Web, AI/ML
 Collaboration...
 passionate about cybersecurity, and the power of open-source software.
+I'm also passionate about tinkering with tech, and like cats.
 -->
-<!--
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,nodejs,react,cs,dotnet,express,django,swift,git,docker,bash,linux,mongodb,postgres,bootstrap,aws,azure,cloudflare,html,css,md,github,postman,vscode,githubactions,gradle,idea,pycharm,scala,rust,sklearn,selenium,windows,apple&perline=11)](https://aidenv.dev)
--->
+
+- 🎓 DePaul CS Grad
+- 🔧 Building collabrative projects for Web, AI/ML, and open-source
+- 🔭 I’m currently working on rebuilding my portfolio site using Astro, React, and Tailwind 
+- 🌱 I’m currently learning Astro and Spring Boot
+- 💬 Ask me about cybersecurity and IT
 
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,express,django,html,css,bootstrap,sklearn,mongodb,postgres,git,github,githubactions,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare&perline=11" />
   </a>
 </div>
-
-<!--
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aidenv/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aiden.vand)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/579480650470522910)
--->
 
 <details open>
   <summary><h1>Github Stats ⚡</h1></summary>
@@ -40,8 +40,6 @@ passionate about cybersecurity, and the power of open-source software.
 		<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
 	</div> <!-- End Profile Views -->
 </details>
-
-
 
 
 
