@@ -21,7 +21,7 @@ I'm also passionate about tinkering with tech, and like cats.
 - 🔧 Building collabrative projects for Web, AI/ML, and open-source
 - 🔭 I’m currently working on rebuilding my portfolio site using Astro, React, and Tailwind 
 - 🌱 I’m currently learning Astro and Spring Boot
-- 💬 Ask me about cybersecurity and IT
+- 💬 Ask me about cybersecurity, DevOps, IT, and cats
 
 <div align="center">
   <a href="#">
