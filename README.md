@@ -26,7 +26,7 @@ I'm also passionate about tinkering with tech, and like cats.
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,express,django,html,css,bootstrap,sklearn,mongodb,postgres,git,github,githubactions,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,spring,express,django,html,css,bootstrap,sklearn,mongodb,postgres,git,github,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare&perline=11" />
   </a>
 </div>
 
