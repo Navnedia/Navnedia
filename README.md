@@ -30,7 +30,7 @@ I'm also passionate about tinkering with tech, and like cats.
   </a>
 </div>
 
-<details open>
+<details closed>
   <summary><h1>Github Stats ⚡</h1></summary>
   <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%"> <!-- End GitHub Stats -->
