@@ -33,9 +33,9 @@ I'm also passionate about tinkering with tech, and like cats.
 <details closed>
   <summary><h1>Github Stats ⚡</h1></summary>
   <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%"> <!-- End GitHub Stats -->
+	<img src="https://github-stats-extended.vercel.app/api?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&icon_color=77b0ca&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%"> <!-- End GitHub Stats -->
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navnedia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=292A36&ring=913937&currStreakLabel=77B0CA&sideLabels=F2E8E7&sideNums=F2E8E7&currStreakNum=F2E8E7&stroke=F2E8E7" width="47.5%"> <!-- End Streak Stats -->
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+	  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Navnedia&bg_color=292a36&title_color=913937&text_color=f2e8e7&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 	</div>
 	<div align="center">
 		<img src="https://komarev.com/ghpvc/?username=Navnedia&style=flat&color=red">
