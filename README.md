@@ -17,7 +17,7 @@ passionate about cybersecurity, and the power of open-source software.
 I'm also passionate about tinkering with tech, and like cats.
 -->
 
-- 💼 Associate Software Engineer <!-- @ CVS Health Aetna -->
+- 💼 Associate Software Engineer @ CVS Health Aetna
 - 🎓 DePaul CS Grad
 - 🔧 Building collabrative projects for Web, AI/ML, and open-source
 - 🔭 I’m currently working on rebuilding my portfolio site using Astro, React, and Tailwind 
@@ -26,7 +26,7 @@ I'm also passionate about tinkering with tech, and like cats.
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,swift,bash,md,nodejs,react,dotnet,spring,express,django,html,css,bootstrap,sklearn,mongodb,postgres,git,github,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,rust,cs,swift,bash,nodejs,react,dotnet,spring,express,django,html,css,bootstrap,sklearn,mongodb,postgres,git,github,docker,postman,vscode,idea,pycharm,linux,windows,apple,aws,azure,cloudflare&perline=11" />
   </a>
 </div>
 
