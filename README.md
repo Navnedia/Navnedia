@@ -17,7 +17,7 @@ passionate about cybersecurity, and the power of open-source software.
 I'm also passionate about tinkering with tech, and like cats.
 -->
 
-- 💼 Associate Software Engineer @ CVS Health Aetna
+- 💼 Software Engineer @ CVS Health Aetna
 - 🎓 DePaul CS Grad
 - 🔧 Building collabrative projects for Web, AI/ML, and open-source
 - 🔭 I’m currently working on rebuilding my portfolio site using Astro, React, and Tailwind 
